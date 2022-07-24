@@ -1,4 +1,4 @@
-# NufusKayitKontrol
+# Nüfus Kayıt Kontrolü
 
 Nüfus Kayıt Kontrol Sistemi için iki taraf vardır: Nüfus Müdürlüğü ve Trafik Şube Müdürlüğü.
 
