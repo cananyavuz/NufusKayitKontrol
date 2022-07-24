@@ -10,3 +10,5 @@ Bu projede Nüfus Müdürlüğü tarafı için Web Servis(ASMX) ve Trafik Şube 
 
 ## Web Form
 ![Animation](https://user-images.githubusercontent.com/83670222/180650923-b106f659-67bd-47d6-b28e-43dc3a1161db.gif)
+
+##### BİLGİLENDİRME: GİFLERDEKİ KİŞİ BİLGİLERİNİN GERÇEK KİŞİYLE ALAKASI YOKTUR. BAZI SİTELER TARAFINDAN ÜRETİLMİŞ SAHTE BİLGİLERDİR.
